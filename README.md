@@ -2,19 +2,17 @@
 
 Link: https://kathiravanmca23.github.io/Pac-man/
 
-SIMULATION BALL MOVEMENT
+PACMAN
 
-Description:
-
-This HTML page displays a continuous bouncing red ball animation within a rectangular area, controlled by JavaScript using the setInterval function with a 500-millisecond interval.
+This HTML page features a Pac-Man animation moving horizontally within a container, controlled by JavaScript for direction, mouth animation, and boundary reversal, with a continuous animation loop triggered by setInterval every 100 milliseconds.
 
 How to run the code:
 
-Step 1: Save the HTML file with a .html extension.
+step1:Save the HTML file with .html extension.
 
-Step 2: Install the Live Server extension in Visual Studio Code, then click the "Go Live" button at the bottom right corner of the VSCode window to open a new browser window displaying the ball-moving animation.
+step2:Click the "Go Live" button.A new browser window will open, displaying Pacman animation.
 
-Future improvement:
+Future Improvemennt:
 
-consider adding user interaction features like mouse or keyboard control to change the ball's direction or speed, or adding obstacles or targets for the ball to interact with, creating a more engaging and interactive animation.
+consider adding obstacles or interactive elements within the container for Pac-Man to interact with, adding sound effects, or incorporating user controls for changing Pac-Man's direction and speed,enhancing the overall user experience.
 
